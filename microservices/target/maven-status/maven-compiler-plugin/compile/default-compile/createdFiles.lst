@@ -1,0 +1,8 @@
+com\springboot\microservices\swagger\SwaggerConfig.class
+com\springboot\microservices\controller\ServiceInstanceRestController.class
+com\springboot\microservices\entity\Family.class
+com\springboot\microservices\security\SpringSecurityConfig.class
+com\springboot\microservices\controller\SpringBootController.class
+com\springboot\microservices\entity\VirtualNuggets.class
+com\springboot\microservices\SpringBootMicroServices.class
+com\springboot\microservices\utility\ApplicationProperties.class
